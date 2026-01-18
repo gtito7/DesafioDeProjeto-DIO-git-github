@@ -1,0 +1,31 @@
+O que é Git?
+
+O Git é um sistema de controle de versões distribuído.
+
+Ele serve para:
+
+Controlar alterações no código
+
+Guardar o histórico do projeto (commits)
+
+Voltar para versões antigas se algo der errado
+
+Trabalhar em equipe sem sobrescrever o código dos outros
+
+O Git funciona localmente, no seu computador.
+
+O que é GitHub?
+
+O GitHub é uma plataforma online que hospeda repositórios Git.
+
+Ele serve para:
+
+Armazenar projetos Git na nuvem
+
+Compartilhar código com outras pessoas
+
+Trabalhar em equipe (pull requests, issues)
+
+Fazer backup dos seus projetos
+
+O GitHub funciona de forma remota, pela internet.
