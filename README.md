@@ -1,58 +1,57 @@
-# \# 🚀 Meu Primeiro Repositório no GitHub
+## 🚀 Meu Primeiro Repositório no GitHub
 
-# 
+  
 
-# Bem-vindo(a) ao meu primeiro repositório no GitHub! 🎉  
+## Bem-vindo(a) ao meu primeiro repositório no GitHub! 🎉
 
-# Este projeto foi criado com o objetivo de entregar o \*\*Desafio de Projeto\*\* da plataforma \*\*DIO\*\*, aprender e praticar os conceitos básicos de \*\*Git\*\* e \*\*GitHub\*\*.
+  
 
-# 
+# Este projeto foi criado com o objetivo de entregar o **Desafio de Projeto** da plataforma **DIO**, aprender e praticar os conceitos básicos de **Git** e **GitHub**.
 
-# ----------
+  
 
-# 
+## -----------------------------------------
 
-# \## 📌 Sobre o Desafio de Projeto:
+  
 
-# 
+#### 📌 Sobre o Desafio de Projeto:
 
-# Este repositório é um espaço de testes e aprendizado, onde coloco em prática:
+  
 
-# 
+## Este repositório é um espaço de testes e aprendizado, onde coloco em prática:
 
-# \-   Criação e utilização do repositório GitHub
+  
 
-# 
+## - Criação e utilização do repositório GitHub
 
-# \-   Versionamento de código com Git
+  
 
-# &nbsp;   
+## - Versionamento de código com Git
 
-# \-   Criação e edição de arquivos Markdown
+  
 
-# &nbsp;   
+## - Criação e edição de arquivos Markdown
 
-# \-   Commits, push e pull
+  
 
-# &nbsp;   
+## - Commits, push e pull
 
-# 
+  
 
-# ----------
+## -----------------------------------------
 
-# 
+  
 
-# \## 🛠️ Tecnologias Utilizadas:
+### 🛠️ Tecnologias Utilizadas:
 
-# 
+  
 
-# \-   Git
+## - Git
 
-# &nbsp;   
+  
 
-# \-   GitHub
+## - GitHub
 
-# &nbsp;   
+  
 
-# \-   Markdown
-
+## - Markdown
